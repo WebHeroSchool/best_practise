@@ -35,7 +35,7 @@ JavaScript сначала выполняет поиск, чтобы увидет
  let two = 2;  // эта переменная явно инициализируется числовым значением 2
 # Сделайте это понятным
 ```
-пусть i1, pio, rialtv; 
+let i1, pio, rialtv; 
 let   newOrderIfItemIsOnStockAndCustomerFromAustralia;
 ```
 `*i1, pio, rialt v*` - неправильные имена переменных. 
